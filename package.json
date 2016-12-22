@@ -1,0 +1,28 @@
+{
+  "name": "m_promise.js",
+  "version": "1.0.0",
+  "description": "an implementation of http based nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "promise",
+    "promise.js",
+    "majing",
+    "m_promise",
+    "mjpiero",
+    "m_promise.js"
+  ],
+  "author": "majing <merlu.majing@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "eventhandle.js": "^1.1.0",
+    "http": "0.0.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
